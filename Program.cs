@@ -1,3 +1,8 @@
+/*
+This program code created my MS and modified by Aleksandr Sumkin
+for education purposes only.
+*/
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
